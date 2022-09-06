@@ -1,1 +1,1 @@
-# MagicEden_NFT_Store
+# Magic_Eden_NFT_Store
