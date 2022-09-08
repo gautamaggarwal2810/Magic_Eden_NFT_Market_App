@@ -1,1 +1,1 @@
-# Magic_Eden_NFT_Store_App
+# Magic Eden NFT Store App
