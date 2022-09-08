@@ -1,4 +1,4 @@
-# Magic Eden NFT Store App
+# Magic Eden NFT Market App
  
 <p align="center">
   <img src="./images/image1.png" width="256" height="455">
